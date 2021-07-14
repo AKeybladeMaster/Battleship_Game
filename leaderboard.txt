@@ -1,0 +1,2 @@
+beasty wins: 2
+Computer wins: 0
